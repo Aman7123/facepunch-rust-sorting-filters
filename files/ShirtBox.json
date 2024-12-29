@@ -1,0 +1,47 @@
+[
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "hoodie"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "tshirt.long"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "heavy.plate.jacket"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "largebackpack"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "smallbackpack"
+    }
+]

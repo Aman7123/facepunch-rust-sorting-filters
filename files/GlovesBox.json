@@ -1,0 +1,38 @@
+[
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "burlap.gloves"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "roadsign.gloves"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "tactical.gloves"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "shoes.boots"
+    }
+]

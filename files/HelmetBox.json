@@ -1,0 +1,65 @@
+[
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "coffeecan.helmet"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "heavy.plate.helmet"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "nightvisiongoggles"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "hat.wolf"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "skull.wolf"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "mask.bandana"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "metal.facemask"
+    }
+]

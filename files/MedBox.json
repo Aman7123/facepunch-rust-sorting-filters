@@ -1,0 +1,272 @@
+[
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "syringe.medical"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "largemedkit"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "bandage"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "lowgradefuel"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "fat.animal"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "red.berry"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "blue.berry"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "yellow.berry"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "seed.red.berry"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "seed.blue.berry"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "seed.yellow.berry"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "crude.oil"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "cloth"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "leather"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "bearmeat"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "bearmeat.cooked"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "corn"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "pumpkin"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "candycane"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "chocolate"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "seed.hemp"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "waterjug"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "seed.pumpkin"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "oretea.advanced"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "oretea.pure"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "oretea"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "woodtea.pure"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "woodtea"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "potato"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "woodtea.advanced"
+    }
+]
